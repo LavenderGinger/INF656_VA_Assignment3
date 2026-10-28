@@ -1,0 +1,26 @@
+body {
+    background-color: #dbf7eb;
+}
+
+main {
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: #6a6a6a 3px 3px 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    max-width: 60%;
+    height: auto;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #02102e;
+    text-align: center;
+    padding-left: 20px;
+}
