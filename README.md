@@ -4,7 +4,7 @@ A continuation of my previous midterm project. Uses MongoDB instead of a local J
 
 1. Install the project by using the 'npm install' command in the terminal.
 
-2. Create your own .env file with the URI and database name.
+2. Create your own .env file with the mongodb://... URI and database name.
 
 3. Use 'npm start' in a terminal to start the server.
 
